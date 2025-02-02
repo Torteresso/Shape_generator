@@ -24,7 +24,7 @@ The parameters are in order :
 
 - name of the initial shape : "n-polygon" with n an integer >= 3 -for example "8-polygon"-, or "random" for random polygon
 - lenght : lenght of each segment of the polygon (integer)
-- a turtle object to draw : the variable is name "t" in the main.py
+- a turtle object to draw : the variable is named "t" in the main.py
 - OPTIONAL : number of previous evolution shown : integer >= 1 (default = 4)
 - OPTIONAL : list with lenghts of each bisectors : must be of the same size of n (default : None -> random bisectors lenghts)
 - OPTINAL : boolean for fictive figure : set it to true if you want only the calculation part, no graphics visualisation (default : False)
