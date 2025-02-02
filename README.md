@@ -1,6 +1,8 @@
 PRESENTATION
 ============
 
+![shape](https://github.com/user-attachments/assets/3190fec2-6a00-42cd-8b5d-462f0913358e)
+
 This is an old program when I was doing some Python, the idea is :
 
 Start from a POLYGON --> For each segment, draw a perpendicular bisector of random lenght pointing outside the shape
